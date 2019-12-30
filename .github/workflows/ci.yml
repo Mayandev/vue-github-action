@@ -1,4 +1,5 @@
 name: GitHub Actions Build and Deploy With Vue
+
 on:
   push:
     branches:
